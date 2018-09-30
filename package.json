@@ -1,0 +1,31 @@
+{
+  "name": "mongoose-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timkariev/mongoose-scrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timkariev/mongoose-scrapper/issues"
+  },
+  "homepage": "https://github.com/timkariev/mongoose-scrapper#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "cherio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.3.0",
+    "morgan": "^1.9.1",
+    "npm": "^6.4.1"
+  }
+}
